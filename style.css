@@ -33,9 +33,9 @@ header {
 /* ---------- Título principal ----------
    Parte 5: os dois alunos alteram esta regra ao mesmo tempo */
 h1 {
-    color: #ffffff;
-    font-size: 2rem;
-    text-align: start;
+    color: #2ecc71;
+    font-size: 3rem;
+    text-align: left;
 }
 
 
